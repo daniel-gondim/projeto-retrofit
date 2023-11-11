@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AtividadeHttpRetroFit2</string>
+    <string name="btnInserirFabricant">Inserir fabricante</string>
+    <string name="btnConsultarFabricant">Consultar fabricante</string>
+    <string name="txtViewRespostaRequisicao">Resposta da requisição</string>
+</resources>
